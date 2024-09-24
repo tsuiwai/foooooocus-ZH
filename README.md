@@ -12,6 +12,6 @@
 ### 加入代码
 
     %cd /content/Fooocus/language/
-    !wget https://github.com/tsuiwai/foooooocus-ZH/blob/main/zh.json
+    !wget https://raw.githubusercontent.com/tsuiwai/foooooocus-ZH/refs/heads/main/zh.json
 
   启动 `Fooocus` 时 再加入 `--language zh`
